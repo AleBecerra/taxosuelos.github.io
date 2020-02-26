@@ -4,7 +4,7 @@ Desarollada por docentes de la Facultad de Agronomía y Veterinaria de la Univer
 Repositorio en construcción
 
 Probá la app:<br>
-Versión en español:https://play.google.com/store/apps/details?id=ar.edu.unrc.taxonomiasuelos <br>
+Versión en español: https://play.google.com/store/apps/details?id=ar.edu.unrc.taxonomiasuelos <br>
 Versión en inglés: https://play.google.com/store/apps/details?id=ar.edu.unrc.soiltaxonomy
 
 
